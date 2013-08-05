@@ -1,4 +1,4 @@
-test
-====
+#Project 
+##What it is
 
-My first test of github
+we are as I see it making a serch sistem for cafes and takeaways and other things
